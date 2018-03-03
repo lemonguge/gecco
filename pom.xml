@@ -89,5 +89,6 @@
 
 	<modules>
 		<module>gecco-travel</module>
+		<module>gecco-iresearch</module>
 	</modules>
 </project>
